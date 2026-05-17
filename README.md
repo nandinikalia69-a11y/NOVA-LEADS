@@ -1,8 +1,3 @@
-
-Anshu Chowdhury
-11:26 PM (0 minutes ago)
-to me
-
 # NOVA-LEADS
 
 NOVA-LEADS is a full-stack lead management system built with React, Node.js, Express, MongoDB, and Docker. The project helps manage leads, authentication, and backend APIs in a structured way.
